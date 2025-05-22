@@ -12,7 +12,7 @@ B.A. in Geography with a minor in Philosophy, Hunter College, CUNY, 2009
 ### **SBIR Phase II, Research & Development, National Geospatial-Intelligence Agency (2024 – Present)**  
 
 Techincal Monitor  
-*Locally Aware Visual Analytics* – $1.3 million to study the performance impact of context data and information on computer vision object detection  
+*Study the performance impact of context data and information on computer vision object detection  
 
 ### **Public Grand Challenge, Research & Development, National Geospatial-Intelligence Agency (2023–2024)**  
 
